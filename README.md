@@ -150,7 +150,7 @@ https://ollama.com/
 Start Ollama and download a compatible language model. For example:
 
 ```bash
-ollama pull llama3.1
+ollama pull qwen2.5:3b
 ```
 
 Make sure the model you download matches the model name configured in your Python code.
@@ -163,7 +163,7 @@ If your code uses `ChatOllama`, configure it with the selected model:
 from langchain_ollama import ChatOllama
 
 llm = ChatOllama(
-    model="llama3.1",
+    model="qwen2.5:3b",
     temperature=0.1
 )
 ```
