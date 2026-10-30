@@ -1,0 +1,68 @@
+RESTAURANT MENU — SAMPLE DATA
+Restaurant: Spice Garden Cafe
+Cuisine: Indian, Indo-Chinese, and casual dining
+Note: This is fictional sample data created for testing, demos, or a RAG project. Prices are illustrative and are not from a real restaurant.
+
+STARTERS
+1. Veg Spring Roll — ₹149
+   Crispy rolls filled with cabbage, carrot, and bell pepper. Served with sweet chilli sauce.
+2. Paneer Tikka — ₹229
+   Yogurt-marinated paneer grilled with onions and bell peppers. Served with mint chutney.
+3. Chicken Tikka — ₹269
+   Boneless chicken pieces marinated with yogurt and spices, then roasted in a tandoor.
+4. Crispy Chilli Potato — ₹179
+   Fried potato strips tossed with garlic, chilli, sesame, and a tangy sauce.
+5. Hara Bhara Kebab — ₹189
+   Spinach, peas, and potato patties with mild spices, served with mint chutney.
+
+MAIN COURSE — INDIAN
+6. Paneer Butter Masala — ₹279
+   Paneer cubes in a creamy tomato-butter gravy. Best served with naan or rice.
+7. Dal Makhani — ₹229
+   Slow-cooked black lentils and kidney beans finished with butter and cream.
+8. Veg Biryani — ₹219
+   Fragrant basmati rice cooked with vegetables and aromatic spices. Served with raita.
+9. Chicken Biryani — ₹299
+   Basmati rice layered with spiced chicken, herbs, and fried onions. Served with raita.
+10. Butter Chicken — ₹329
+    Tandoori chicken pieces in a mildly spiced tomato-butter gravy.
+11. Chicken Curry — ₹289
+    Chicken cooked in a traditional onion-and-tomato gravy with Indian spices.
+
+MAIN COURSE — INDO-CHINESE
+12. Veg Hakka Noodles — ₹199
+    Stir-fried noodles with cabbage, carrots, bell peppers, and soy-based seasoning.
+13. Chicken Hakka Noodles — ₹239
+    Stir-fried noodles with chicken, vegetables, garlic, and soy-based seasoning.
+14. Veg Fried Rice — ₹189
+    Rice wok-tossed with mixed vegetables and light seasoning.
+15. Chilli Chicken — ₹269
+    Crispy chicken pieces tossed with capsicum, onions, green chilli, and savoury sauce.
+
+BREADS AND SIDES
+16. Butter Naan — ₹59
+17. Garlic Naan — ₹79
+18. Tandoori Roti — ₹35
+19. Steamed Rice — ₹99
+20. Plain Raita — ₹49
+21. Mint Chutney — ₹29
+
+DESSERTS
+22. Gulab Jamun (2 pieces) — ₹89
+    Soft milk-solid dumplings served in sugar syrup.
+23. Chocolate Brownie — ₹129
+    Warm chocolate brownie, served on its own.
+24. Vanilla Ice Cream — ₹79
+    Two scoops of vanilla ice cream.
+
+DRINKS
+25. Masala Chai — ₹39
+26. Cold Coffee — ₹119
+27. Fresh Lime Soda — ₹79
+28. Mango Lassi — ₹99
+29. Bottled Water — ₹20
+
+DIETARY NOTES
+- Vegetarian items: Veg Spring Roll, Paneer Tikka, Crispy Chilli Potato, Hara Bhara Kebab, Paneer Butter Masala, Dal Makhani, Veg Biryani, Veg Hakka Noodles, Veg Fried Rice, breads, rice, raita, desserts, and listed drinks (check ingredients when needed).
+- Non-vegetarian items: Chicken Tikka, Chicken Biryani, Butter Chicken, Chicken Curry, Chicken Hakka Noodles, and Chilli Chicken.
+- Allergens may include dairy, gluten, soy, nuts, and other ingredients. Ask the restaurant for exact allergen information.

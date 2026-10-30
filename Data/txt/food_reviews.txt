@@ -1,0 +1,144 @@
+FOOD REVIEWS — SAMPLE DATA
+Restaurant: Spice Garden Cafe
+Note: These are fictional example reviews written for testing, demos, sentiment analysis, or a RAG project. They are not real customer testimonials.
+
+REVIEW 001
+Rating: 5/5
+Customer type: Vegetarian diner
+Items ordered: Paneer Tikka, Paneer Butter Masala, Garlic Naan
+Review: The paneer tikka was smoky and nicely marinated, and the paneer in the butter masala was soft. The gravy was creamy without being too spicy. Garlic naan arrived warm and paired well with the curry. The portion size was good for sharing.
+Pros: Flavourful paneer; soft naan; generous portions.
+Cons: The gravy may feel rich for people who prefer lighter food.
+Sentiment: Positive
+
+REVIEW 002
+Rating: 4/5
+Customer type: Student
+Items ordered: Chicken Biryani, Plain Raita, Masala Chai
+Review: The chicken biryani had fragrant rice and tender chicken. The spices were balanced, though I would have liked a little more heat. Raita helped cool the dish, and the masala chai was comforting after the meal.
+Pros: Aromatic rice; tender chicken; good pairing with raita.
+Cons: Spice level may be mild for some customers.
+Sentiment: Positive
+
+REVIEW 003
+Rating: 3/5
+Customer type: Office worker
+Items ordered: Veg Hakka Noodles, Fresh Lime Soda
+Review: The noodles had plenty of vegetables and a pleasant garlic flavour. However, the noodles were slightly oily and could have used more seasoning. The fresh lime soda was refreshing and balanced the meal.
+Pros: Fresh-tasting vegetables; refreshing drink.
+Cons: Noodles were oily and lightly seasoned.
+Sentiment: Mixed
+
+REVIEW 004
+Rating: 5/5
+Customer type: Family diner
+Items ordered: Butter Chicken, Butter Naan, Gulab Jamun
+Review: The butter chicken had a smooth tomato-based sauce and tender chicken pieces. Butter naan was soft, and the gulab jamun was warm and sweet. The meal felt satisfying, and the dessert was a nice finish.
+Pros: Tender chicken; smooth sauce; enjoyable dessert.
+Cons: The sauce is rich and may not suit everyone.
+Sentiment: Positive
+
+REVIEW 005
+Rating: 2/5
+Customer type: Takeaway customer
+Items ordered: Crispy Chilli Potato, Veg Fried Rice
+Review: The chilli potato had a good spicy-sweet flavour when fresh, but the takeaway portion arrived less crispy than expected. The fried rice was acceptable but a little bland. Better packaging that keeps fried food crisp would improve the experience.
+Pros: Chilli-potato sauce had a good flavour.
+Cons: Food lost its crispness in transit; fried rice lacked seasoning.
+Sentiment: Negative
+
+REVIEW 006
+Rating: 4/5
+Customer type: Vegetarian diner
+Items ordered: Dal Makhani, Tandoori Roti, Mango Lassi
+Review: The dal makhani tasted slow-cooked and buttery, with a mild smoky note. Tandoori roti was a good choice for scooping up the dal. Mango lassi was thick and fruity, although a little sweeter than I prefer.
+Pros: Comforting dal; good roti; fruity lassi.
+Cons: Lassi was very sweet.
+Sentiment: Positive
+
+REVIEW 007
+Rating: 3/5
+Customer type: Group of friends
+Items ordered: Chilli Chicken, Chicken Hakka Noodles, Cold Coffee
+Review: The chilli chicken had a good chilli-garlic flavour, but some pieces were too heavily coated in sauce. The chicken noodles were filling and tasted better after adding a little extra seasoning. Cold coffee was smooth and enjoyable.
+Pros: Strong chilli-garlic flavour; filling noodles; smooth coffee.
+Cons: Sauce was heavy on some chicken pieces.
+Sentiment: Mixed
+
+REVIEW 008
+Rating: 5/5
+Customer type: Dessert lover
+Items ordered: Chocolate Brownie, Vanilla Ice Cream, Cold Coffee
+Review: The brownie was rich and chocolatey, and the vanilla ice cream provided a nice contrast. The cold coffee was smooth rather than watery. This combination is a good option for someone who wants a sweet treat after a meal.
+Pros: Rich brownie; good hot-and-cold dessert pairing; smooth coffee.
+Cons: The brownie may be too rich for people who prefer less sweetness.
+Sentiment: Positive
+
+REVIEW 009
+Rating: 4/5
+Customer type: Vegetarian diner
+Items ordered: Hara Bhara Kebab, Veg Biryani, Plain Raita
+Review: The kebabs were soft inside with a lightly crisp exterior, and the mint chutney added freshness. The veg biryani had a pleasant aroma and a decent mix of vegetables. I would order it again, though a few bites had more whole spices than I expected.
+Pros: Good kebab texture; fresh chutney; aromatic biryani.
+Cons: Some whole spices were overpowering.
+Sentiment: Positive
+
+REVIEW 010
+Rating: 2/5
+Customer type: Dine-in customer
+Items ordered: Chicken Curry, Steamed Rice, Fresh Lime Soda
+Review: The rice was cooked well, and the lime soda tasted fresh. Unfortunately, the chicken curry was saltier than I expected, and the portion had fewer chicken pieces than I would have liked. The kitchen should check seasoning consistency.
+Pros: Well-cooked rice; refreshing lime soda.
+Cons: Curry was too salty; chicken portion felt small.
+Sentiment: Negative
+
+REVIEW 011
+Rating: 4/5
+Customer type: First-time visitor
+Items ordered: Veg Spring Roll, Paneer Butter Masala, Butter Naan
+Review: The spring rolls were crisp and came with a sweet chilli dip. Paneer butter masala was creamy, mildly spiced, and suitable for sharing. Service was represented only through the food in this sample review; no claims about actual restaurant service are intended.
+Pros: Crisp spring rolls; mild, creamy curry.
+Cons: Customers who prefer spicy food may want extra chilli.
+Sentiment: Positive
+
+REVIEW 012
+Rating: 3/5
+Customer type: Budget-conscious diner
+Items ordered: Veg Fried Rice, Veg Hakka Noodles, Bottled Water
+Review: Both dishes were filling and suitable for sharing. The fried rice was a little plain, while the noodles had a stronger flavour. The menu offers a reasonable variety, but I would have preferred more vegetables in the fried rice.
+Pros: Filling portions; dishes can be shared.
+Cons: Fried rice was plain and could include more vegetables.
+Sentiment: Mixed
+
+REVIEW 013
+Rating: 5/5
+Customer type: Chicken biryani fan
+Items ordered: Chicken Biryani, Chicken Tikka, Mango Lassi
+Review: The chicken tikka was well roasted with a smoky edge, and the chicken biryani had fragrant rice with tender pieces of chicken. Mango lassi was creamy and helped balance the spices. The meal had a good variety of textures and flavours.
+Pros: Smoky tikka; fragrant biryani; creamy lassi.
+Cons: This is a filling combination and may be too much for one person.
+Sentiment: Positive
+
+REVIEW 014
+Rating: 1/5
+Customer type: Takeaway customer
+Items ordered: Veg Spring Roll, Cold Coffee
+Review: The spring rolls were noticeably soggy by the time they arrived, and the filling felt lukewarm. The cold coffee was fine, but the overall takeaway experience was disappointing. Separate, ventilated packaging for fried items may help preserve texture.
+Pros: Cold coffee was acceptable.
+Cons: Spring rolls arrived soggy and lukewarm.
+Sentiment: Negative
+
+REVIEW 015
+Rating: 4/5
+Customer type: Tea and snack customer
+Items ordered: Crispy Chilli Potato, Masala Chai, Gulab Jamun
+Review: The chilli potato had a satisfying crunch and a tangy, spicy sauce. Masala chai was fragrant, and the gulab jamun was soft with enough syrup. The snack-and-dessert combination was enjoyable, although the potato sauce was slightly sweet.
+Pros: Crunchy potatoes; fragrant chai; soft gulab jamun.
+Cons: Sauce leaned a little sweet.
+Sentiment: Positive
+
+QUICK SUMMARY (BASED ONLY ON THESE FICTIONAL EXAMPLES)
+- Most praised: paneer dishes, chicken biryani, butter chicken, desserts, and drinks.
+- Common improvement themes: takeaway crispness, excess oil or sauce, inconsistent seasoning, and sweetness levels.
+- Example review ratings range from 1/5 to 5/5.
+- The sample contains positive, mixed, and negative sentiments to support basic search and sentiment-analysis testing.
